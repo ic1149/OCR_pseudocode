@@ -1,0 +1,10 @@
+procedure main()
+  print("I hate pseudocode")
+endprocedure
+
+if true then
+  main()
+endif
+
+
+//I know i dont need all these
